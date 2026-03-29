@@ -1,5 +1,5 @@
 <template>
-    <div class="red">123</div>
+    <div class="red">1234</div>
 </template>
 
 <script>
