@@ -12,5 +12,7 @@ import NweCpns2 from './components/NweCpns2.vue';
   <NewCpn3></NewCpn3>
   <div>第一次修改代码</div>
   <div>第二次修改代码</div>
+  <div>第三次修改代码</div>
+  <div>第四次修改代码</div>
   <div>同事在主分支上修改了代码</div>
 </template>
