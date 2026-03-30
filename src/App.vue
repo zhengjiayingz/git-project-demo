@@ -10,4 +10,5 @@ import NweCpns2 from './components/NweCpns2.vue';
   <NewCpns></NewCpns>
   <NweCpns2></NweCpns2>
   <NewCpn3></NewCpn3>
+  <div>同事在主分支上修改了代码</div>
 </template>
