@@ -11,4 +11,5 @@ import NweCpns2 from './components/NweCpns2.vue';
   <NweCpns2></NweCpns2>
   <NewCpn3></NewCpn3>
   <div>第一次修改代码</div>
+  <div>第二次修改代码</div>
 </template>
